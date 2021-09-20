@@ -143,3 +143,7 @@ textarea {
 .col-md-9>.card-body {
     padding-top: 0;
 }
+
+.embed-responsive {
+    height: 100% !important;
+}
